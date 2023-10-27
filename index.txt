@@ -1,6 +1,8 @@
-1231245467657868
+git add .
+git commit -m "update"
+git push origin master
 
 
+git clone (+Link)
 
-
-asdfkhjasgbdaksljndlvkjash uiolasbd
+git pull origin master
