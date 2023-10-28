@@ -7,3 +7,5 @@ git clone (+Link)
 
 git pull origin master
 
+them dong lenh: 12345
+
