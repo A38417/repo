@@ -10,4 +10,6 @@ git pull origin master
 them dong lenh: 12345
 
 
+
 user1: may khach 1 da sua dong lenh
+
